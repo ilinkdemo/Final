@@ -23,6 +23,7 @@
     <SccLocalPath>SAK</SccLocalPath>
     <SccAuxPath>SAK</SccAuxPath>
     <SccProvider>SAK</SccProvider>
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -75,6 +76,8 @@
     <Content Include="App\Views\ticketgenerate.html" />
     <Content Include="App\Module\ticketmodule.js" />
     <Content Include="App\Service\ticketservice.js" />
+    <Content Include="Gulp\gulpfile.js" />
+    <Content Include="Gulp\NPM_Dependencies_Angular1.0.txt" />
     <Content Include="Scripts\angular-highlight.js" />
     <Content Include="Scripts\angular-local-storage.min.js" />
     <Content Include="Scripts\angular-mocks.js" />
@@ -136,6 +139,7 @@
     <Content Include="Style\font\fontawesome-webfont.woff2" />
     <Content Include="Style\font\FontAwesome.otf" />
     <Content Include="App\Template\SampleTemplate.xlsx" />
+    <Content Include="Gulp\tsconfig.json" />
     <None Include="Properties\PublishProfiles\msticketwebdemo - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\MSTicketWebDemo.pubxml" />
     <None Include="Properties\PublishProfiles\Ticket.pubxml" />
