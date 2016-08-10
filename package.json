@@ -2,8 +2,17 @@
   "name": "gulp",
   "version": "2.15.8",
   "description": "Ticket Prediction",
-
+"engines": {
+    "node": "4.4.7"
+  },
   "dependencies": {
+   "gulp-sourcemaps": "^2.0.0-alpha",
+    
+    "del": "^2.2.1",
+	"gulp-jshint":"2.0.0"
+
+  }
+  "devdependencies": {
    "gulp-sourcemaps": "^2.0.0-alpha",
     
     "del": "^2.2.1",
