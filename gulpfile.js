@@ -30,7 +30,7 @@ gulp.task('copy:libs', ['clean'], function() {
 });
 
 
-var jshint  = require('gulp-jshint');
+const jshint  = require('gulp-jshint');
 
 gulp.task('lint', function() {
 var __dirname='./Angular1.0';
