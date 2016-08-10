@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html class="no-js">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Ticket Prediction</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <link href="../Style/css/bootstrap.css" rel="stylesheet" />
+    <!--<link href="../Style/css/bootstrap.min.css" rel="stylesheet" />--> 
+
+    <link href="../Style/css/font-awesome.css" rel="stylesheet" />
+    <!--<link href="../Style/css/font-awesome.min.css" rel="stylesheet" />-->
+    <link href="../Style/css/bootstrap-slider.css" rel="stylesheet" />
+    <!--<link href="../Style/css/jquery.range.css" rel="stylesheet" />-->
+    <link href="../Style/css/angular.rangeSlider.css" rel="stylesheet" />
+    <link href="../Style/css/styles.css" rel="stylesheet" />  
+    
+    <script src="../Scripts/jquery-2.2.1.min.js"></script>
+    <!--<script src="../Scripts/angular.js"></script>-->
+    <script src="../Scripts/angular.min.js"></script>
+    <script src="../Scripts/angular-route.js"></script>
+    <script src="../Scripts/angular.rangeSlider.js"></script>
+    <script src="../Scripts/angular-local-storage.min.js"></script>
+    <script src="../Scripts/bootstrap.min.js"></script>
+    <!--<script src="../Scripts/jquery.range.js"></script>-->
+    <script src="../Scripts/bootstrap-slider.min.js"></script>
+    <script src="../Scripts/angular-highlight.js"></script>
+    <script src="../Scripts/xlsx.core.min.js"></script>
+
+    <script src="Module/ticketmodule.js"></script>
+    <script src="Controller/ticketcontroller.js"></script>
+    <script src="Controller/logincontroller.js"></script>
+    <script src="Service/ticketservice.js"></script>
+    <script src="Directive/readfiledirective.js"></script>
+    <script src="Common/restservice.js"></script>
+    <script src="Common/htmlConstants.js"></script>
+    <script src="config.js"></script>
+    <style>
+        .newloader {
+            width: 100%;
+            height: 100%;
+            position: fixed;
+            background: #fff url('../Style/images/onLoad.png') no-repeat center center;
+            z-index: 999;
+        }
+        html, body{height:100%;background-color:#EAEAEA;}
+    </style>
+
+
+</head>
+<body ng-app="ticketApp">
+    
+    <div class="newloader"></div>
+    <div ng-controller="mainController">
+        <div>
+            <a href="#/ticket" ng-show="hideLabel" ng-click="hideLabel()">Microsoft Telecom - Ticket Prediction</a>
+        </div>
+        <div ng-view>
+        </div>
+    </div>
+    
+</body>
+</html>
