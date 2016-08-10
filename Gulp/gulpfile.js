@@ -4,8 +4,8 @@ const del = require('del');
 
 const tscConfig = require('./tsconfig.json');
 
-var buildpath='./TicketsWeb/';
-var publishpath='./Angular1.0/Published_files/';
+var buildpath='TicketsWeb/';
+var publishpath='Angular1.0/Published_files/';
 
 // clean the contents of the distribution directory
 gulp.task('clean', function () {
@@ -33,7 +33,7 @@ gulp.task('copy:libs', ['clean'], function() {
 var jshint  = require('gulp-jshint');
 
 gulp.task('lint', function() {
-var __dirname='./Angular1.0';
+var __dirname='Angular1.0';
   return gulp.src(buildpath + 'App/**/*.js')
     .pipe(jshint())
     .pipe(jshint.reporter('gulp-jshint-html-reporter', {
