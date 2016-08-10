@@ -7,10 +7,10 @@
 
   "license": "ISC",
   "devDependencies": {
-   
-    "gulp-jshint": "^2.15.8",
+   "gulp-sourcemaps": "^2.15.8",
+    
     "del": "^2.15.8",
-  "gulp-sourcemaps": "^2.15.8"
- 
+  
+ "gulp-jshint": "^2.15.8"
   }
 }
