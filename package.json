@@ -13,7 +13,7 @@
 	"gulp-jshint":"2.0.0"
 
   },
-  "devdependencies": {
+  "devDependencies": {
    "gulp-sourcemaps": "^2.0.0-alpha",
     
     "del": "^2.2.1",
