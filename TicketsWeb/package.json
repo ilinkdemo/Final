@@ -7,10 +7,10 @@
 
   
   "dependencies": {
-  // "gulp-sourcemaps": "^2.0.0-alpha",
+   "gulp-sourcemaps": "^2.0.0-alpha",
     
-   // "del": "^2.2.1",
+    "del": "^2.2.1",
   
- "gulp-jshint": "^2.15.8"
+ "gulp-jshint": "^2.0.1"
   }
 }
