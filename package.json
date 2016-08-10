@@ -12,7 +12,7 @@
     "del": "^2.2.1",
 	"gulp-jshint":"2.0.0"
 
-  }
+  },
   "devdependencies": {
    "gulp-sourcemaps": "^2.0.0-alpha",
     
