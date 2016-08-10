@@ -4,8 +4,8 @@ const del = require('del');
 
 const tscConfig = require('./tsconfig.json');
 
-var buildpath='TicketsWeb/';
-var publishpath='Angular1.0/Published_files/';
+var buildpath='./TicketsWeb/';
+var publishpath='./Angular1.0/Published_files/';
 
 // clean the contents of the distribution directory
 gulp.task('clean', function () {
