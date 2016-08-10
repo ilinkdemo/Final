@@ -78,7 +78,6 @@
     <Content Include="App\Service\ticketservice.js" />
     <Content Include="Gulp\gulpfile.js" />
     <Content Include="Gulp\NPM_Dependencies_Angular1.0.txt" />
-    <None Include="package.json" />
     <Content Include="Scripts\angular-highlight.js" />
     <Content Include="Scripts\angular-local-storage.min.js" />
     <Content Include="Scripts\angular-mocks.js" />
