@@ -1,0 +1,14 @@
+E:\Devops\Devops_Ticket Prediction\Devops_Ticket Prediction\bin\Debug\Devops_Ticket Prediction.dll.config
+E:\Devops\Devops_Ticket Prediction\Devops_Ticket Prediction\bin\Debug\Devops_Ticket Prediction.dll
+E:\Devops\Devops_Ticket Prediction\Devops_Ticket Prediction\bin\Debug\Devops_Ticket Prediction.pdb
+E:\Devops\Devops_Ticket Prediction\Devops_Ticket Prediction\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Devops\Devops_Ticket Prediction\Devops_Ticket Prediction\bin\Debug\nunit.framework.dll
+E:\Devops\Devops_Ticket Prediction\Devops_Ticket Prediction\bin\Debug\TechTalk.SpecFlow.dll
+E:\Devops\Devops_Ticket Prediction\Devops_Ticket Prediction\bin\Debug\WebDriver.dll
+E:\Devops\Devops_Ticket Prediction\Devops_Ticket Prediction\bin\Debug\WebDriver.Support.dll
+E:\Devops\Devops_Ticket Prediction\Devops_Ticket Prediction\bin\Debug\nunit.framework.xml
+E:\Devops\Devops_Ticket Prediction\Devops_Ticket Prediction\bin\Debug\WebDriver.xml
+E:\Devops\Devops_Ticket Prediction\Devops_Ticket Prediction\bin\Debug\WebDriver.Support.xml
+E:\Devops\Devops_Ticket Prediction\Devops_Ticket Prediction\obj\Debug\Devops_Ticket Prediction.dll
+E:\Devops\Devops_Ticket Prediction\Devops_Ticket Prediction\obj\Debug\Devops_Ticket Prediction.pdb
+E:\Devops\Devops_Ticket Prediction\Devops_Ticket Prediction\obj\Debug\Devops_Ticket Prediction.csprojResolveAssemblyReference.cache
