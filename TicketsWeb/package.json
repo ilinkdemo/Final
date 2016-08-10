@@ -1,0 +1,16 @@
+{
+  "name": "gulp",
+  "version": "3.9.1",
+  "description": "Ticket Prediction",
+  
+ 
+
+  "license": "ISC",
+  "devDependencies": {
+   
+    "gulp-jshint": "^1.7.1",
+    "del": "^1.7.1",
+  "gulp-sourcemaps": "^1.7.1"
+ 
+  }
+}
