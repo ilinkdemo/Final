@@ -1,0 +1,7 @@
+npm install npm -g(npm)
+
+npm install --save-dev gulp
+npm install gulp-sourcemaps
+npm install del
+npm install jshint gulp-jshint --save-dev
+npm install gulp-jshint-html-reporter --save 
