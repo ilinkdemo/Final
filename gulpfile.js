@@ -33,7 +33,7 @@ gulp.task('copy:libs', ['clean'], function() {
 const jshint  = require('gulp-jshint');
 
 gulp.task('lint', function() {
-var __dirname=argv.PATH;
+var __dirname=publishpath;
   return gulp.src(buildpath + 'App/**/*.js')
     .pipe(jshint())
     .pipe(jshint.reporter('gulp-jshint-html-reporter', {
