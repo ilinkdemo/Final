@@ -8,5 +8,6 @@ C:\Users\arun\Desktop\Ticket Prediction-devops\Devops_Ticket Prediction\bin\Rele
 C:\Users\arun\Desktop\Ticket Prediction-devops\Devops_Ticket Prediction\bin\Release\WebDriver.xml
 C:\Users\arun\Desktop\Ticket Prediction-devops\Devops_Ticket Prediction\bin\Release\WebDriver.Support.xml
 C:\Users\arun\Desktop\Ticket Prediction-devops\Devops_Ticket Prediction\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\arun\Desktop\Ticket Prediction-devops\Devops_Ticket Prediction\obj\Release\Devops_Ticket Prediction.csprojResolveAssemblyReference.cache
 C:\Users\arun\Desktop\Ticket Prediction-devops\Devops_Ticket Prediction\obj\Release\Devops_Ticket Prediction.dll
 C:\Users\arun\Desktop\Ticket Prediction-devops\Devops_Ticket Prediction\obj\Release\Devops_Ticket Prediction.pdb
