@@ -17,8 +17,8 @@ namespace Devops_Ticket_Prediction
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("TechTalk.SpecFlow", "2.1.0.0")]
     [System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [NUnit.Framework.TestFixtureAttribute()]
-    [NUnit.Framework.DescriptionAttribute("SpecFlowFeature1")]
+    //[NUnit.Framework.TestFixtureAttribute()]
+    //[NUnit.Framework.DescriptionAttribute("SpecFlowFeature1")]
     public partial class SpecFlowFeature1Feature
     {
         
@@ -27,7 +27,7 @@ namespace Devops_Ticket_Prediction
 #line 1 "SpecFlowFeature1.feature"
 #line hidden
         
-        [NUnit.Framework.TestFixtureSetUpAttribute()]
+        //[NUnit.Framework.TestFixtureSetUpAttribute()]
         public virtual void FeatureSetup()
         {
             testRunner = TechTalk.SpecFlow.TestRunnerManager.GetTestRunner();
@@ -36,19 +36,19 @@ namespace Devops_Ticket_Prediction
             testRunner.OnFeatureStart(featureInfo);
         }
         
-        [NUnit.Framework.TestFixtureTearDownAttribute()]
+        //[NUnit.Framework.TestFixtureTearDownAttribute()]
         public virtual void FeatureTearDown()
         {
             testRunner.OnFeatureEnd();
             testRunner = null;
         }
         
-        [NUnit.Framework.SetUpAttribute()]
+        //[NUnit.Framework.SetUpAttribute()]
         public virtual void TestInitialize()
         {
         }
         
-        [NUnit.Framework.TearDownAttribute()]
+        //[NUnit.Framework.TearDownAttribute()]
         public virtual void ScenarioTearDown()
         {
             testRunner.OnScenarioEnd();
@@ -64,9 +64,9 @@ namespace Devops_Ticket_Prediction
             testRunner.CollectScenarioErrors();
         }
         
-        [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("Ticket Prediction Login")]
-        [NUnit.Framework.CategoryAttribute("Simulate_Tickets")]
+        //[NUnit.Framework.TestAttribute()]
+        //[NUnit.Framework.DescriptionAttribute("Ticket Prediction Login")]
+        //[NUnit.Framework.CategoryAttribute("Simulate_Tickets")]
         public virtual void TicketPredictionLogin()
         {
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Ticket Prediction Login", new string[] {
@@ -90,9 +90,9 @@ this.ScenarioSetup(scenarioInfo);
             this.ScenarioCleanup();
         }
         
-        [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("Azure Run NLP Process")]
-        [NUnit.Framework.CategoryAttribute("Run_NLP_Process_Tickets")]
+        //[NUnit.Framework.TestAttribute()]
+        //[NUnit.Framework.DescriptionAttribute("Azure Run NLP Process")]
+        //[NUnit.Framework.CategoryAttribute("Run_NLP_Process_Tickets")]
         public virtual void AzureRunNLPProcess()
         {
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Azure Run NLP Process", new string[] {

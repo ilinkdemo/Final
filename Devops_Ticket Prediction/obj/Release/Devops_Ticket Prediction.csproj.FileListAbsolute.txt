@@ -1,0 +1,12 @@
+C:\Users\arun\Desktop\Ticket Prediction-devops\Devops_Ticket Prediction\bin\Release\Devops_Ticket Prediction.dll.config
+C:\Users\arun\Desktop\Ticket Prediction-devops\Devops_Ticket Prediction\bin\Release\Devops_Ticket Prediction.dll
+C:\Users\arun\Desktop\Ticket Prediction-devops\Devops_Ticket Prediction\bin\Release\Devops_Ticket Prediction.pdb
+C:\Users\arun\Desktop\Ticket Prediction-devops\Devops_Ticket Prediction\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\arun\Desktop\Ticket Prediction-devops\Devops_Ticket Prediction\bin\Release\TechTalk.SpecFlow.dll
+C:\Users\arun\Desktop\Ticket Prediction-devops\Devops_Ticket Prediction\bin\Release\WebDriver.dll
+C:\Users\arun\Desktop\Ticket Prediction-devops\Devops_Ticket Prediction\bin\Release\WebDriver.Support.dll
+C:\Users\arun\Desktop\Ticket Prediction-devops\Devops_Ticket Prediction\bin\Release\WebDriver.xml
+C:\Users\arun\Desktop\Ticket Prediction-devops\Devops_Ticket Prediction\bin\Release\WebDriver.Support.xml
+C:\Users\arun\Desktop\Ticket Prediction-devops\Devops_Ticket Prediction\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\arun\Desktop\Ticket Prediction-devops\Devops_Ticket Prediction\obj\Release\Devops_Ticket Prediction.dll
+C:\Users\arun\Desktop\Ticket Prediction-devops\Devops_Ticket Prediction\obj\Release\Devops_Ticket Prediction.pdb
