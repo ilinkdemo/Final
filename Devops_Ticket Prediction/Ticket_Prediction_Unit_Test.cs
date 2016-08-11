@@ -22,6 +22,7 @@ namespace Devops_Ticket_Prediction
         [TestCategory("Ticket Prediction Login")]
         public void Login_Application()
         {
+
             Global.Driver.FindElement(By.XPath("//input[@name='email']")).SendKeys("admin@ilink-systems.com");
             Global.Driver.FindElement(By.XPath("//input[@name='password']")).SendKeys("Enter321");
             System.Threading.Thread.Sleep(5000);
