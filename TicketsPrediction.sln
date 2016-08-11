@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketsWebAPI", "TicketsWeb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devops_Ticket Prediction", "Devops_Ticket Prediction\Devops_Ticket Prediction.csproj", "{4E9726DA-A1ED-405F-BBE2-3F8AA53C3255}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Angular1.0", "Angular1.0", "{31029CB6-30D6-4F02-96F6-1A2500BD0066}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
