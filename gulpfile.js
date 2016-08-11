@@ -6,7 +6,7 @@ const tscConfig = require('./tsconfig.json');
 
 var buildpath='./TicketsWeb/';
 var publishpath=argv.PATH;
-if (!publishpath) { publishpath = '.'; }
+if (!publishpath) { publishpath = './Angular1.0'; }
 // clean the contents of the distribution directory
 gulp.task('clean', function () {
   return del('dist/**/*');
