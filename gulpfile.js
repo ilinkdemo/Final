@@ -1,12 +1,11 @@
 const sourcemaps = require('gulp-sourcemaps');
 const gulp = require('gulp');
 const del = require('del');
-const argv = require('yargs').argv;
+
 const tscConfig = require('./tsconfig.json');
 
 var buildpath='./TicketsWeb/';
-var publishpath=argv.PATH;
-if (!publishpath) { publishpath = './Angular1.0'; }
+var publishpath = './TicketsWeb/Angular1.0'; 
 // clean the contents of the distribution directory
 gulp.task('clean', function () {
   return del('dist/**/*');

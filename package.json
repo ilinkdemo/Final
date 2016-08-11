@@ -17,8 +17,8 @@
     "del": "^2.2.1",
 	"jshint":"2.8.0",
 	"gulp-jshint":"2.0.0",
-	"gulp-jshint-html-reporter":"",
-	"yargs": "^3.4.5"
+	"gulp-jshint-html-reporter":""
+	
 
   }
 }
