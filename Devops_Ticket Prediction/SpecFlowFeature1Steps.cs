@@ -10,7 +10,7 @@ namespace Devops_Ticket_Prediction
     [Binding]
     public class ticket
     {
-
+        [TestMethod]
         [Given(@"I have browser the ""(.*)"" url")]
         public void GivenIHaveBrowserTheUrl(string url)
         {

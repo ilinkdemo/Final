@@ -1,12 +1,12 @@
 const sourcemaps = require('gulp-sourcemaps');
 const gulp = require('gulp');
 const del = require('del');
-
+const argv = require('yargs').argv;
 const tscConfig = require('./tsconfig.json');
 
 var buildpath='./TicketsWeb/';
-var publishpath='./Angular1.0/Published_files/';
-
+var publishpath=argv.PATH;
+if (!publishpath) { publishpath = '.'; }
 // clean the contents of the distribution directory
 gulp.task('clean', function () {
   return del('dist/**/*');
@@ -33,7 +33,7 @@ gulp.task('copy:libs', ['clean'], function() {
 const jshint  = require('gulp-jshint');
 
 gulp.task('lint', function() {
-var __dirname='./TicketsWeb/Angular1.0';
+var __dirname=argv.PATH;
   return gulp.src(buildpath + 'App/**/*.js')
     .pipe(jshint())
     .pipe(jshint.reporter('gulp-jshint-html-reporter', {

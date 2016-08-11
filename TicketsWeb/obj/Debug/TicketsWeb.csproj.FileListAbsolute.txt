@@ -1,0 +1,6 @@
+C:\Users\arun\Desktop\Ticket Prediction-devops\TicketsWeb\bin\TicketsWeb.dll.config
+C:\Users\arun\Desktop\Ticket Prediction-devops\TicketsWeb\bin\TicketsWeb.dll
+C:\Users\arun\Desktop\Ticket Prediction-devops\TicketsWeb\bin\TicketsWeb.pdb
+C:\Users\arun\Desktop\Ticket Prediction-devops\TicketsWeb\obj\Debug\TicketsWeb.csprojResolveAssemblyReference.cache
+C:\Users\arun\Desktop\Ticket Prediction-devops\TicketsWeb\obj\Debug\TicketsWeb.dll
+C:\Users\arun\Desktop\Ticket Prediction-devops\TicketsWeb\obj\Debug\TicketsWeb.pdb
