@@ -7,6 +7,5 @@ C:\Users\arun\Desktop\Ticket Prediction-devops\TicketsWeb\obj\Release\TicketsWeb
 C:\Final\TicketsWeb\bin\TicketsWeb.dll.config
 C:\Final\TicketsWeb\bin\TicketsWeb.dll
 C:\Final\TicketsWeb\bin\TicketsWeb.pdb
-C:\Final\TicketsWeb\obj\Release\TicketsWeb.csprojResolveAssemblyReference.cache
 C:\Final\TicketsWeb\obj\Release\TicketsWeb.dll
 C:\Final\TicketsWeb\obj\Release\TicketsWeb.pdb

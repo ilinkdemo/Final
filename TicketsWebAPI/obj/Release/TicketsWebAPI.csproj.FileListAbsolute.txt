@@ -65,6 +65,5 @@ C:\Final\TicketsWebAPI\bin\System.Web.WebPages.xml
 C:\Final\TicketsWebAPI\bin\System.Web.WebPages.Deployment.xml
 C:\Final\TicketsWebAPI\bin\System.Web.WebPages.Razor.xml
 C:\Final\TicketsWebAPI\bin\Antlr3.Runtime.pdb
-C:\Final\TicketsWebAPI\obj\Release\TicketsWebAPI.csprojResolveAssemblyReference.cache
 C:\Final\TicketsWebAPI\obj\Release\RESTTicketService.dll
 C:\Final\TicketsWebAPI\obj\Release\RESTTicketService.pdb
