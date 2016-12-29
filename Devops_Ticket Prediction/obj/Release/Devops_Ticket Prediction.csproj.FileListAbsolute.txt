@@ -11,3 +11,15 @@ C:\Users\arun\Desktop\Ticket Prediction-devops\Devops_Ticket Prediction\bin\Rele
 C:\Users\arun\Desktop\Ticket Prediction-devops\Devops_Ticket Prediction\obj\Release\Devops_Ticket Prediction.csprojResolveAssemblyReference.cache
 C:\Users\arun\Desktop\Ticket Prediction-devops\Devops_Ticket Prediction\obj\Release\Devops_Ticket Prediction.dll
 C:\Users\arun\Desktop\Ticket Prediction-devops\Devops_Ticket Prediction\obj\Release\Devops_Ticket Prediction.pdb
+C:\Final\Devops_Ticket Prediction\bin\Release\Devops_Ticket Prediction.dll.config
+C:\Final\Devops_Ticket Prediction\bin\Release\Devops_Ticket Prediction.dll
+C:\Final\Devops_Ticket Prediction\bin\Release\Devops_Ticket Prediction.pdb
+C:\Final\Devops_Ticket Prediction\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Final\Devops_Ticket Prediction\bin\Release\TechTalk.SpecFlow.dll
+C:\Final\Devops_Ticket Prediction\bin\Release\WebDriver.dll
+C:\Final\Devops_Ticket Prediction\bin\Release\WebDriver.Support.dll
+C:\Final\Devops_Ticket Prediction\bin\Release\WebDriver.xml
+C:\Final\Devops_Ticket Prediction\bin\Release\WebDriver.Support.xml
+C:\Final\Devops_Ticket Prediction\obj\Release\Devops_Ticket Prediction.csprojResolveAssemblyReference.cache
+C:\Final\Devops_Ticket Prediction\obj\Release\Devops_Ticket Prediction.dll
+C:\Final\Devops_Ticket Prediction\obj\Release\Devops_Ticket Prediction.pdb
